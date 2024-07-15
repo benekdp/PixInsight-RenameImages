@@ -1,9 +1,0 @@
-[PixInsight Update Package]
-Platform: all
-Category: RenameImages
-Version: 1.0
-Build: 1
-Date: 2023-07-15
-URL: https://raw.githubusercontent.com/benekdp/PixInsight-RenameImages/main/RenameImages.zip
-Size: 8029
-MD5: 47bd792cfe51f77f04267f7eb59abdb9
