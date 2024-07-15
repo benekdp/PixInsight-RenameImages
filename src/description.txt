@@ -1,1 +1,0 @@
-RenameImages is a script for PixInsight that allows you to automatically rename your images based on their filter types. It supports a wide range of naming conventions and can handle both broadband and narrowband filters.
